@@ -1,2 +1,4 @@
 # portfolio_1
-hello!
+Hello! This is my first profolio website.
+Explore to know more about me. 
+:)
